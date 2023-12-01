@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Lab3_Algor/cmake-build-debug/CMakeFiles/Lab3_Algor.dir
+C:/Users/User/CLionProjects/Lab3_Algor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Lab3_Algor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
